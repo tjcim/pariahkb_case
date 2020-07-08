@@ -24,7 +24,7 @@ These are the DXF files used to cut-out the case:
 
 Something like these: [uxcell Female Threaded Standoff Spacer Pillars](https://www.amazon.com/dp/B00R1JBE7G/)
 
-The hole the go in is 3.5mm in diameter and is 6.175mm long. Any pillar that is smaller in diameter than 3.5mm and smaller than 6.175mm in length should work (depending on the length of the screws you use).
+The hole the stand-offs fit in is 3.5mm in diameter and is 6.175mm long. Any pillar that is smaller in diameter than 3.5mm and smaller than 6.175mm in length should work (depending on the length of the screws you use).
 
 ## Screws
 
